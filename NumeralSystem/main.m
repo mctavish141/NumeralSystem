@@ -21,7 +21,7 @@ int stringLength (char *string, int size) {
     return 0;
 }
 
-// Checking if curretn symbol if a digit (from 0 to 9)
+// Checking if current symbol if a digit (from 0 to 9)
 
 int isDigit (char symbol) {
     return (symbol >= 48) && (symbol <= 57);
