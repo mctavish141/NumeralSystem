@@ -41,7 +41,7 @@ int main () {
     // Reading incoming system value
     
     int incomingSystem = 0;
-    printf("Enter incoming systems: ");
+    printf("Enter incoming system: ");
     scanf("%d", &incomingSystem);
     
     // Reading incoming number string
